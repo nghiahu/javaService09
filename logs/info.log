@@ -1,0 +1,24 @@
+2025-07-18 15:49:02 [restartedMain] INFO  c.e.j.JavaService09Application - Starting JavaService09Application using Java 17.0.15 with PID 7016 (C:\Users\nghia\IdeaProjects\spring_boost\javaService09\build\classes\java\main started by nghia in C:\Users\nghia\IdeaProjects\spring_boost\javaService09)
+2025-07-18 15:49:02 [restartedMain] INFO  c.e.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:49:03 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-07-18 15:49:03 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5ee8e56c
+2025-07-18 15:49:03 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-07-18 15:49:05 [restartedMain] INFO  c.e.j.JavaService09Application - Started JavaService09Application in 3.563 seconds (process running for 4.923)
+2025-07-18 15:54:47 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-07-18 15:54:47 [Thread-5] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+2025-07-18 15:54:47 [restartedMain] INFO  c.e.j.JavaService09Application - Starting JavaService09Application using Java 17.0.15 with PID 7016 (C:\Users\nghia\IdeaProjects\spring_boost\javaService09\build\classes\java\main started by nghia in C:\Users\nghia\IdeaProjects\spring_boost\javaService09)
+2025-07-18 15:54:47 [restartedMain] INFO  c.e.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:54:47 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+2025-07-18 15:54:47 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1baa86f
+2025-07-18 15:54:47 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+2025-07-18 15:54:47 [restartedMain] INFO  c.e.j.JavaService09Application - Started JavaService09Application in 0.481 seconds (process running for 347.555)
+2025-07-18 15:55:08 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
+2025-07-18 15:55:08 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown completed.
+2025-07-18 15:55:11 [restartedMain] INFO  c.e.j.JavaService09Application - Starting JavaService09Application using Java 17.0.15 with PID 18688 (C:\Users\nghia\IdeaProjects\spring_boost\javaService09\build\classes\java\main started by nghia in C:\Users\nghia\IdeaProjects\spring_boost\javaService09)
+2025-07-18 15:55:11 [restartedMain] INFO  c.e.j.JavaService09Application - No active profile set, falling back to 1 default profile: "default"
+2025-07-18 15:55:12 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+2025-07-18 15:55:12 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@25bb9815
+2025-07-18 15:55:12 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+2025-07-18 15:55:13 [restartedMain] INFO  c.e.j.JavaService09Application - Started JavaService09Application in 2.86 seconds (process running for 3.28)
+2025-07-18 16:00:23 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-07-18 16:00:23 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
